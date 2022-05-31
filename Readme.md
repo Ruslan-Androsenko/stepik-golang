@@ -32,4 +32,5 @@ go build main.go
 * [1.7 Константы](https://stepik.org/lesson/228264/step/1?auth=login&unit=200797)
 * [1.8 Условные выражения](https://stepik.org/lesson/229634/step/1?auth=login&unit=202158)
 * [1.9 Условные конструкции](https://stepik.org/lesson/232593/step/1?auth=login&unit=205068)
+* [1.10 Циклы](https://stepik.org/lesson/228263/step/1?auth=login&unit=200796)
 

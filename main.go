@@ -1,7 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"stepik/conditional"
+)
 
 func main() {
-	fmt.Println("Hello, Go!")
+	conditionalConstructs()
+}
+
+// 1.9 Условные конструкции
+func conditionalConstructs() {
+	//conditional.StepFive()
+	//conditional.StepSix()
+	//conditional.StepSeven()
+	//conditional.StepEight()
+	conditional.StepNine()
 }

@@ -1,13 +1,15 @@
 package main
 
 import (
+	"stepik/arrays"
 	"stepik/conditional"
 	"stepik/loops"
 )
 
 func main() {
 	//conditionalConstructs()
-	loopsConstructs()
+	//loopsConstructs()
+	arraysAndSlices()
 }
 
 // 1.9 Условные конструкции
@@ -28,4 +30,13 @@ func loopsConstructs() {
 	//loops.StepSeven()
 	//loops.StepEight()
 	loops.StepNine()
+}
+
+// 1.12 Массивы и срезы
+func arraysAndSlices() {
+	//arrays.StepFive()
+	//arrays.StepThirteen()
+	//arrays.StepFourteen()
+	//arrays.StepFifteen()
+	arrays.StepSixteen()
 }

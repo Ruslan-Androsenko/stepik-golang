@@ -4,12 +4,14 @@ import (
 	"stepik/arrays"
 	"stepik/conditional"
 	"stepik/loops"
+	"stepik/solutions"
 )
 
 func main() {
 	//conditionalConstructs()
 	//loopsConstructs()
-	arraysAndSlices()
+	//arraysAndSlices()
+	solutionsChapterOne()
 }
 
 // 1.9 Условные конструкции
@@ -39,4 +41,23 @@ func arraysAndSlices() {
 	//arrays.StepFourteen()
 	//arrays.StepFifteen()
 	arrays.StepSixteen()
+}
+
+// 1.13 Решение задач
+func solutionsChapterOne() {
+	//solutions.StepTwo()
+	//solutions.StepThree()
+	//solutions.StepFour()
+	//solutions.StepFive()
+	//solutions.StepSix()
+	//solutions.StepSeven()
+	//solutions.StepEight()
+	//solutions.StepNine()
+	//solutions.StepTen()
+	//solutions.StepEleven()
+	//solutions.StepTwelve()
+	//solutions.StepThirteen()
+	//solutions.StepFourteen()
+	//solutions.StepFifteen()
+	solutions.StepSixteen()
 }

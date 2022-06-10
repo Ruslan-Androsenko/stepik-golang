@@ -35,4 +35,5 @@ go build main.go
 * [1.10 Циклы](https://stepik.org/lesson/228263/step/1?auth=login&unit=200796)
 * [1.11 Форматированный вывод](https://stepik.org/lesson/351787/step/1?auth=login&unit=335741)
 * [1.12 Массивы и срезы](https://stepik.org/lesson/228265/step/1?auth=login&unit=200798)
+* [1.13 Решение задач](https://stepik.org/lesson/229320/step/1?unit=201906)
 

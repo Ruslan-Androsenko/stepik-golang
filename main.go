@@ -5,13 +5,25 @@ import (
 	"stepik/conditional"
 	"stepik/loops"
 	"stepik/solutions"
+	"stepik/variables"
 )
 
 func main() {
+	variablesAndArithmetics()
 	//conditionalConstructs()
 	//loopsConstructs()
 	//arraysAndSlices()
-	solutionsChapterOne()
+	//solutionsChapterOne()
+}
+
+// 1.5 Переменные и ариф. операции, ввод/вывод данных
+func variablesAndArithmetics() {
+	//variables.StepEleven()
+	//variables.StepTwelve()
+	//variables.StepThirteen()
+	//variables.StepFourteen()
+	//variables.StepFifteen()
+	variables.StepSixteen()
 }
 
 // 1.9 Условные конструкции

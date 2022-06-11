@@ -9,9 +9,9 @@ import (
 )
 
 func main() {
-	variablesAndArithmetics()
+	//variablesAndArithmetics()
 	//conditionalConstructs()
-	//loopsConstructs()
+	loopsConstructs()
 	//arraysAndSlices()
 	//solutionsChapterOne()
 }
@@ -43,7 +43,8 @@ func loopsConstructs() {
 	//loops.StepFive()
 	//loops.StepSeven()
 	//loops.StepEight()
-	loops.StepNine()
+	//loops.StepNine()
+	loops.StepTen()
 }
 
 // 1.12 Массивы и срезы

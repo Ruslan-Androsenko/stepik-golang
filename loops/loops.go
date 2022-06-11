@@ -187,5 +187,32 @@ func StepNine() {
 затем вернетесь к этой задаче позже.
 */
 func StepTen() {
+	var first, second uint
+	var intersect []uint
 
+	for first <= 0 || second <= 0 || first > 10000 || second > 10000 {
+		fmt.Scan(&first, &second)
+	}
+
+	for first > 0 {
+		digitFirst := first % 10
+		tempSecond := second
+
+		for tempSecond > 0 {
+			digitSecond := tempSecond % 10
+
+			if digitFirst == digitSecond {
+				intersect = append(intersect, digitFirst)
+				break
+			}
+
+			tempSecond /= 10
+		}
+
+		first /= 10
+	}
+
+	for i := len(intersect) - 1; i >= 0; i-- {
+		fmt.Print(intersect[i], " ")
+	}
 }

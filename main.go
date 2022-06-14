@@ -2,10 +2,12 @@ package main
 
 import (
 	"stepik/functions"
+	"stepik/pointers"
 )
 
 func main() {
-	functionsTesting()
+	//functionsTesting()
+	pointersTesting()
 }
 
 func functionsTesting() {
@@ -13,4 +15,9 @@ func functionsTesting() {
 	//functions.StepEight()
 	//functions.StepNine()
 	functions.StepEleven()
+}
+
+func pointersTesting() {
+	//pointers.StepFive()
+	pointers.StepSix()
 }

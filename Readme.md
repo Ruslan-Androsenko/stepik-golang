@@ -28,4 +28,5 @@ go build main.go
 * [2.1 Функции](https://stepik.org/lesson/228838/step/1?unit=201372)
 * [2.2 Пакеты](https://stepik.org/lesson/266656/step/1?unit=247611)
 * [2.3 Указатели](https://stepik.org/lesson/266497/step/1?unit=247452)
+* [2.4 Структуры](https://stepik.org/lesson/266654/step/1?unit=247610)
 

@@ -1,7 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"stepik/functions"
+)
 
 func main() {
-	fmt.Println("Hello, Go!")
+	functionsTesting()
+}
+
+func functionsTesting() {
+	//functions.StepSeven()
+	//functions.StepEight()
+	//functions.StepNine()
+	functions.StepEleven()
 }

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"stepik/errors"
 	"stepik/functions"
 	"stepik/mystrings"
 	"stepik/pointers"
@@ -11,7 +12,8 @@ func main() {
 	//functionsTesting()
 	//pointersTesting()
 	//structuresTesting()
-	stringsTesting()
+	//stringsTesting()
+	errorsTesting()
 }
 
 func functionsTesting() {
@@ -37,4 +39,8 @@ func stringsTesting() {
 	//mystrings.StepTen()
 	//mystrings.StepEleven()
 	mystrings.StepTwelve()
+}
+
+func errorsTesting() {
+	errors.StepFour()
 }

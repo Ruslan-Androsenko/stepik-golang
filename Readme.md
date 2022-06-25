@@ -31,4 +31,5 @@ go build main.go
 * [2.4 Структуры](https://stepik.org/lesson/266654/step/1?unit=247610)
 * [2.5 Строки](https://stepik.org/lesson/230630/step/1?unit=203151)
 * [2.6 Обработка ошибок](https://stepik.org/lesson/264473/step/1?unit=245397)
+* [2.7 Решение задач](https://stepik.org/lesson/229321/step/1?unit=201907)
 

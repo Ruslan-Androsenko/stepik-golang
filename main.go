@@ -5,6 +5,7 @@ import (
 	"stepik/functions"
 	"stepik/mystrings"
 	"stepik/pointers"
+	"stepik/solutions"
 	"stepik/structures"
 )
 
@@ -13,7 +14,8 @@ func main() {
 	//pointersTesting()
 	//structuresTesting()
 	//stringsTesting()
-	errorsTesting()
+	//errorsTesting()
+	solutionsChapterTwo()
 }
 
 func functionsTesting() {
@@ -43,4 +45,12 @@ func stringsTesting() {
 
 func errorsTesting() {
 	errors.StepFour()
+}
+
+func solutionsChapterTwo() {
+	//solutions.StepTwo()
+	//solutions.StepThree()
+	//solutions.StepFour()
+	//solutions.StepFive()
+	solutions.StepSeven()
 }

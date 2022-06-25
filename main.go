@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"stepik/mappings"
+)
 
 func main() {
-	fmt.Println("Hello, Go!")
+	mappingsTesting()
+}
+
+func mappingsTesting() {
+	//mappings.StepFive()
+	mappings.StepSix()
 }

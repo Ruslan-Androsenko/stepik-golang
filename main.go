@@ -1,14 +1,22 @@
 package main
 
 import (
+	"stepik/conversions"
 	"stepik/mappings"
 )
 
 func main() {
-	mappingsTesting()
+	//mappingsTesting()
+	conversionsTesting()
 }
 
 func mappingsTesting() {
 	//mappings.StepFive()
 	mappings.StepSix()
+}
+
+func conversionsTesting() {
+	//conversions.StepThree()
+	//conversions.StepThirteen()
+	conversions.StepFourteen()
 }

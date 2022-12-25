@@ -28,4 +28,4 @@ go build main.go
 * [3.1 Отображения (map)](https://stepik.org/lesson/345543/step/1?unit=329288)
 * [3.2 Преобразование типов данных](https://stepik.org/lesson/348563/step/1?unit=332364)
 * [3.3 Анонимные функции](https://stepik.org/lesson/349644/step/1?unit=333499)
-
+* [3.4 Интерфейсы](https://stepik.org/lesson/350788/step/1?unit=334666)

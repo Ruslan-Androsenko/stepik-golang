@@ -3,13 +3,15 @@ package main
 import (
 	"stepik/anonymous"
 	"stepik/conversions"
+	"stepik/interfaces"
 	"stepik/mappings"
 )
 
 func main() {
 	//mappingsTesting()
 	//conversionsTesting()
-	anonymousTesting()
+	//anonymousTesting()
+	interfacesTesting()
 }
 
 func mappingsTesting() {
@@ -25,4 +27,9 @@ func conversionsTesting() {
 
 func anonymousTesting() {
 	anonymous.StepSeven()
+}
+
+func interfacesTesting() {
+	//interfaces.StepTen()
+	interfaces.StepThirteen()
 }

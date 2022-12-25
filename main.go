@@ -5,6 +5,7 @@ import (
 	"stepik/conversions"
 	"stepik/files"
 	"stepik/interfaces"
+	"stepik/jsons"
 	"stepik/mappings"
 )
 
@@ -13,7 +14,8 @@ func main() {
 	//conversionsTesting()
 	//anonymousTesting()
 	//interfacesTesting()
-	filesTesting()
+	//filesTesting()
+	JsonsTesting()
 }
 
 func mappingsTesting() {
@@ -40,4 +42,9 @@ func filesTesting() {
 	//files.StepNine()
 	//files.StepThirteen()
 	files.StepFourteen()
+}
+
+func JsonsTesting() {
+	//jsons.StepSix()
+	jsons.StepNine()
 }

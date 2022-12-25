@@ -30,3 +30,4 @@ go build main.go
 * [3.3 Анонимные функции](https://stepik.org/lesson/349644/step/1?unit=333499)
 * [3.4 Интерфейсы](https://stepik.org/lesson/350788/step/1?unit=334666)
 * [3.5 Работа с файлами](https://stepik.org/lesson/351892/step/1?unit=335849)
+* [3.6 JSON](https://stepik.org/lesson/353243/step/1?unit=337227)

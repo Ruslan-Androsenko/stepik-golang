@@ -3,6 +3,7 @@ package main
 import (
 	"stepik/anonymous"
 	"stepik/conversions"
+	"stepik/datetimes"
 	"stepik/files"
 	"stepik/interfaces"
 	"stepik/jsons"
@@ -15,7 +16,8 @@ func main() {
 	//anonymousTesting()
 	//interfacesTesting()
 	//filesTesting()
-	JsonsTesting()
+	//JsonsTesting()
+	DateTimesTesting()
 }
 
 func mappingsTesting() {
@@ -47,4 +49,11 @@ func filesTesting() {
 func JsonsTesting() {
 	//jsons.StepSix()
 	jsons.StepNine()
+}
+
+func DateTimesTesting() {
+	//datetimes.StepThree()
+	//datetimes.StepFour()
+	//datetimes.StepSeven()
+	datetimes.StepEight()
 }

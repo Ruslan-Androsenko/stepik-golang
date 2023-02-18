@@ -32,3 +32,4 @@ go build main.go
 * [3.5 Работа с файлами](https://stepik.org/lesson/351892/step/1?unit=335849)
 * [3.6 JSON](https://stepik.org/lesson/353243/step/1?unit=337227)
 * [3.7 Работа с датой и временем](https://stepik.org/lesson/359395/step/1?unit=343626)
+* [3.8 Параллелизм ч.1](https://stepik.org/lesson/360357/step/1?unit=344766)

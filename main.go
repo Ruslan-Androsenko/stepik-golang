@@ -8,6 +8,7 @@ import (
 	"stepik/interfaces"
 	"stepik/jsons"
 	"stepik/mappings"
+	"stepik/parallelism"
 )
 
 func main() {
@@ -17,7 +18,8 @@ func main() {
 	//interfacesTesting()
 	//filesTesting()
 	//JsonsTesting()
-	DateTimesTesting()
+	//DateTimesTesting()
+	ParallelismTesting()
 }
 
 func mappingsTesting() {
@@ -56,4 +58,10 @@ func DateTimesTesting() {
 	//datetimes.StepFour()
 	//datetimes.StepSeven()
 	datetimes.StepEight()
+}
+
+func ParallelismTesting() {
+	//parallelism.StepEight()
+	//parallelism.StepNine()
+	parallelism.StepTen()
 }
